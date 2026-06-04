@@ -1,4 +1,4 @@
-# Portfolio — Francisco Javier Granados Paz
+# Portafolio — Francisco Javier Granados Paz
 
 Estudiante de **Ciencias de Datos para Negocios** en la Universidad Nacional Rosario Castellanos (UNRC), Proyecto Prototípico.
 
@@ -33,5 +33,4 @@ Plataforma web para análisis de policultivos en los 32 estados de México: pres
 | Producción | [app.raizdemex.com](https://app.raizdemex.com) |
 
 ## Contacto
-
-javierpax00@gmail.com · [LinkedIn](https://www.linkedin.com/in/francisco-javier-granados-paz-1a196b3a7) · [GitHub](https://github.com/JAVGP444)
+franciscojaviergranadospaz@gmail.com · [LinkedIn](https://www.linkedin.com/in/francisco-javier-granados-paz-1a196b3a7) · [GitHub](https://github.com/JAVGP444)
