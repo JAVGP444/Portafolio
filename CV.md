@@ -2,7 +2,7 @@
 
 **Estudiante** · Ciencias de Datos para Negocios · Universidad Nacional Rosario Castellanos (UNRC) · Proyecto Prototípico  
 
-Ciudad de México · javierpax00@gmail.com  
+Ciudad de México · franciscojaviergranadospaz@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/francisco-javier-granados-paz-1a196b3a7) · [GitHub](https://github.com/JAVGP444)
 
 ---
